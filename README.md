@@ -11,4 +11,4 @@
 
 ### Who do I talk to? ###
 
-* You can connect me any time on Twitter : @bhaigadepuru(https://twitter.com/bhaigadepuru)
+* You can connect me any time on Twitter : [@bhaigadepuru](https://twitter.com/bhaigadepuru)
