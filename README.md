@@ -6,7 +6,7 @@
 * It also contains some sample code templates.
 
 ### Wiki ###
-* You can find the Wiki [here](https://bitbucket.org/purushottam_bhaigade/codeing-style/wiki/Home)
+* You can find the Wiki [here](https://github.com/purushottambhaigade/SalesforceCodingStyle/wiki)
 
 ### Contribution guidelines ###
 
